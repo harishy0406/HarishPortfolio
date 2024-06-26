@@ -11,7 +11,7 @@
 To run this project locally, follow these steps:
 
 # Clone the repository
-git clone https://github.com/yourusername/HarishPortfolio.git
+git clone [https://github.com/yourusername/HarishPortfolio.git](https://github.com/harishy0406/HarishPortfolio)
 
 # Navigate to the project directory
 cd HarishPortfolio
