@@ -10,13 +10,13 @@
 ## Installation
 To run this project locally, follow these steps:
 
-# Clone the repository
+1. Clone the repository
 git clone [https://github.com/yourusername/HarishPortfolio.git](https://github.com/harishy0406/HarishPortfolio)
 
-# Navigate to the project directory
+2. Navigate to the project directory
 cd HarishPortfolio
 
-## Usage
+3. Usage
 Open index.html in your preferred web browser to view the portfolio.
 
 ## Snapshots
