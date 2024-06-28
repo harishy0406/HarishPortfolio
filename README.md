@@ -64,5 +64,5 @@ Contact Page:
 ![image](https://github.com/harishy0406/HarishPortfolio/assets/142865295/ea1114a1-1827-4337-b63c-35c440a64c0d)
 
 
-Thank you for visiting my portfolio! 😊 Feel free to explore and reach out if you have any questions or opportunities. 📫
+Thank you for visiting my portfolio! 😊 Feel free to explore and reach out if you have any questions or opportunities. 📝📫
 
